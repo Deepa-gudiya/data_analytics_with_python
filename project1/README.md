@@ -1,68 +1,30 @@
-project1
- ├── fundamentals_central_tendency.ipynb
- └── IBM-313 Marks.xlsx
+🔹 Project 2 – Data Cleaning & Exploration (Gapminder Dataset)
+Step 1: Load Dataset
 
-📌 Implementation Strategy – Project 1
+Loaded dataset using pd.read_csv()
 
-(Fundamentals & Central Tendency Analysis)
+Step 2: Data Understanding
 
-🔹 Step 1: Import Required Libraries
+Checked dataset structure (info())
 
-Imported pandas
+Observed unique values
 
-Imported numpy (if required)
+Identified missing values
 
-Used statistics module (optional)
+Step 3: Data Preprocessing
 
-🔹 Step 2: Load Excel Dataset
+Handled null values
 
-Loaded IBM-313 Marks.xlsx using:
+Sorted values based on year/country
 
-pd.read_excel("IBM-313 Marks.xlsx")
+Filtered data using conditions
 
+Grouped data using groupby()
 
-Stored dataset in a DataFrame
+Step 4: Basic Analysis
 
-🔹 Step 3: Data Inspection
+Calculated average life expectancy per year
 
-Viewed first rows using head()
+Compared GDP per capita trends
 
-Checked dataset structure using info()
-
-Verified number of rows & columns using shape
-
-Identified column names
-
-🔹 Step 4: Central Tendency Calculations
-
-Performed statistical analysis on marks column:
-
-Mean → df['column'].mean()
-
-Median → df['column'].median()
-
-Mode → df['column'].mode()
-
-Also:
-
-Compared manual formula calculation with built-in functions
-
-Interpreted what each measure indicates about student performance
-
-🔹 Step 5: Measures of Dispersion (if included)
-
-Range → max - min
-
-Variance → df['column'].var()
-
-Standard Deviation → df['column'].std()
-
-Analyzed data spread and consistency of marks.
-
-🔹 Step 6: Interpretation of Results
-
-Identified overall class performance trend
-
-Checked whether marks are uniformly distributed
-
-Observed variability in scores
+Performed basic aggregation functions
