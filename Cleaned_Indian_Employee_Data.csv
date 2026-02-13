@@ -1,0 +1,50 @@
+Employee_ID,Name,Age,Gender,Department,Position,Salary,City,Performance_Rating
+EMP001,Rajesh Kumar,32.0,Male,Engineering,Senior Developer,850000.0,Bangalore,4.2
+EMP002,Priya Sharma,28.0,Female,Marketing,Marketing Manager,720000.0,Mumbai,4.5
+EMP003,Amit Singh,35.0,Male,Finance,Financial Analyst,650000.0,Delhi,3.8
+EMP004,Sneha Patel,26.0,Female,,HR Executive,480000.0,Ahmedabad,4.1
+EMP005,Vikram Reddy,40.0,Male,Engineering,Tech Lead,1200000.0,Hyderabad,4.7
+EMP006,Kavya Nair,29.0,Female,Sales,Sales Executive,550000.0,Chennai,3.9
+EMP007,Arjun Gupta,31.0,Male,Engineering,DevOps Engineer,750000.0,Pune,4.3
+EMP008,Meera Joshi,27.0,Female,Design,UI/UX Designer,620000.0,Bangalore,4.4
+EMP009,Rohit Agarwal,33.0,Male,Finance,,580000.0,Kolkata,3.7
+EMP010,Anita Verma,38.0,Female,HR,HR Manager,950000.0,Gurgaon,4.6
+EMP011,Suresh Iyer,42.0,Male,Engineering,Principal Engineer,1350000.0,Chennai,4.8
+EMP012,Pooja Malhotra,31.0,Female,Marketing,Digital Marketing Specialist,450000.0,Delhi,4.0
+EMP013,Karan Chopra,30.0,Male,Sales,Sales Manager,780000.0,Mumbai,4.2
+EMP014,Divya Rao,34.0,Female,Engineering,Data Scientist,950000.0,Bangalore,4.5
+EMP015,Manoj Tiwari,36.0,Male,Operations,Operations Manager,820000.0,Noida,4.1
+EMP016,Ritu Bansal,28.0,Female,Finance,Financial Planner,580000.0,Jaipur,3.9
+EMP017,Deepak Kumar,39.0,Male,Engineering,Software Architect,1150000.0,Hyderabad,4.6
+EMP018,Sonia Kapoor,26.0,Female,Design,Graphic Designer,420000.0,Chandigarh,4.0
+EMP019,Rahul Saxena,32.0,Male,Marketing,Product Manager,890000.0,Pune,
+EMP020,Nisha Pandey,29.0,Female,HR,Talent Acquisition Specialist,520000.0,Lucknow,4.2
+EMP021,Gaurav Mishra,37.0,Male,Engineering,Full Stack Developer,820000.0,Indore,4.3
+EMP022,Preeti Singh,31.0,Female,Sales,Regional Sales Head,950000.0,Bhopal,4.5
+EMP023,Ashish Jain,28.0,Male,Finance,Investment Analyst,680000.0,Surat,4.1
+EMP024,Swati Agrawal,33.0,Female,Operations,Process Manager,720000.0,Nagpur,4.0
+EMP025,Vishal Gupta,35.0,Male,Engineering,Machine Learning Engineer,1050000.0,Bangalore,4.7
+EMP026,Arjun Pandey,31.0,Male,IT,Software Engineer,750000.0,Jaipur,4.4
+EMP027,Neha Kapoor,28.0,Female,IT,Data Analyst,750000.0,Bangalore,3.8
+EMP028,Amit Sharma,27.0,Male,IT,Junior Developer,650000.0,Delhi,4.5
+EMP029,Riya Gupta,32.0,Female,HR,HR Specialist,750000.0,Mumbai,3.8
+EMP030,Rajesh Verma,45.0,Male,Finance,CFO,1200000.0,Bangalore,4.9
+EMP031,Priya Singh,29.0,Female,IT,QA Engineer,720000.0,Kolkata,4.2
+EMP032,Sunil Kumar,26.0,Male,Sales,Sales Executive,500000.0,Chennai,
+EMP033,Alok Mehta,52.0,Male,Operations,VP Operations,2000000.0,Hyderabad,5.0
+EMP034,Kavita Yadav,31.0,Female,IT,DevOps Engineer,750000.0,Pune,4.0
+EMP035,Pankaj Mishra,24.0,Male,Marketing,Marketing Associate,-45000.0,Jaipur,3.5
+EMP036,Deepika Roy,48.0,Female,Management,Director,3000000.0,Bangalore,5.0
+EMP037,Ramesh Patel,29.0,Male,IT,Backend Developer,720000.0,Kolkata,4.2
+EMP038,Meera Nair,34.0,Female,HR,Senior HR Manager,820000.0,Kochi,4.3
+EMP039,Sameer Desai,37.0,Male,Finance,Finance Manager,1100000.0,Delhi,4.8
+EMP040,Swati Joshi,29.0,Female,IT,Full Stack Developer,650000.0,Mumbai,
+EMP041,Vinod Iyer,55.0,Male,Management,CEO,5000000.0,Chennai,5.0
+EMP042,Anjali Saxena,23.0,Female,HR,HR Trainee,380000.0,Pune,3.9
+EMP043,Manish Khanna,40.0,Male,Operations,Operations Head,1250000.0,Hyderabad,4.7
+EMP044,Arjun Pandey,31.0,Male,IT,Software Engineer,750000.0,Jaipur,4.4
+EMP045,Neha Kapoor,28.0,Female,IT,Data Analyst,750000.0,Bangalore,3.8
+EMP046,Amit Sharma,27.0,Male,IT,Junior Developer,650000.0,Delhi,4.5
+EMP047,Riya Gupta,32.0,Female,HR,HR Specialist,750000.0,Mumbai,
+EMP048,Rohit Bansal,36.0,Male,Finance,Senior Analyst,980000.0,Mumbai,4.9
+EMP049,Sneha Tiwari,25.0,Female,Sales,Sales Representative,750000.0,Kolkata,3.6
