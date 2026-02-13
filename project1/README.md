@@ -1,4 +1,4 @@
-🔹 Project 2 – Data Cleaning & Exploration (Gapminder Dataset)
+🔹 Project 1 – Data Cleaning & Exploration (Gapminder Dataset)
 Step 1: Load Dataset
 
 Loaded dataset using pd.read_csv()
