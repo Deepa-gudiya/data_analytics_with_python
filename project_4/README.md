@@ -1,6 +1,8 @@
 📊 Data Visualization using Python
+ 
  Scatter Plot &  Pie Chart Analysis
-📌 Project Summary
+ 
+ 📌 Project Summary
 
 Data visualization is a powerful technique to convert raw numerical data into meaningful graphical insights.
 
@@ -14,43 +16,43 @@ The focus is not just plotting graphs, but understanding why and when to use the
 
  1️⃣ Scatter Plot – Relationship Analysis
 
-A Scatter Plot is used to study the relationship between two quantitative variables.
+-A Scatter Plot is used to study the relationship between two quantitative variables.
 
 Each data point represents a pair of values (X, Y), allowing us to visually inspect correlation patterns.
 
 🎯 Analytical Purpose
 
-Scatter plots help in:
+-Scatter plots help in:
 
-Measuring positive or negative correlation
+-Measuring positive or negative correlation
 
-Detecting clusters in data
+-Detecting clusters in data
 
-Identifying anomalies or outliers
+-Identifying anomalies or outliers
 
-Supporting regression analysis
+-Supporting regression analysis
 
-Observing linear vs non-linear relationships
+-Observing linear vs non-linear relationships
 
 📊 Practical Applications
 
-Study time vs academic performance
+*Study time vs academic performance
 
-Marketing spend vs revenue growth
+*Marketing spend vs revenue growth
 
-Experience vs salary trend
+*Experience vs salary trend
 
-Product rating vs sales
+*Product rating vs sales
 
 --Interpretation Insight
 
-By analyzing point distribution:
+-By analyzing point distribution:
 
-Upward trend → Positive correlation
+-Upward trend → Positive correlation
 
-Downward trend → Negative correlation
+-Downward trend → Negative correlation
 
-Random pattern → No correlation
+-Random pattern → No correlation
 
 This makes scatter plots extremely valuable in predictive modeling and business analysis.
 
@@ -62,35 +64,35 @@ Each slice represents a percentage share of the total dataset.
 
 🎯 Analytical Purpose
 
-Pie charts are useful for:
+-Pie charts are useful for:
 
-Understanding contribution percentage
+-Understanding contribution percentage
 
-Comparing relative proportions
+-Comparing relative proportions
 
-Presenting summarized categorical insights
+-Presenting summarized categorical insights
 
-Business reporting and dashboards
+-Business reporting and dashboards
 
 📊 Practical Applications
 
-Budget distribution analysis
+-Budget distribution analysis
 
-Market share comparison
+-Market share comparison
 
-Resource allocation overview
+-Resource allocation overview
 
-Survey result breakdown
+-Survey result breakdown
 
 -- Interpretation Insight
 
-Pie charts are most effective when:
+-Pie charts are most effective when:
 
-The number of categories is limited
+-The number of categories is limited
 
-The goal is percentage-based comparison
+-The goal is percentage-based comparison
 
-Clear proportional understanding is required
+-Clear proportional understanding is required
 
 They simplify complex numerical data into an easily digestible visual summary.
 
