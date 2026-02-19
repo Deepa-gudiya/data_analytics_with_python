@@ -1,5 +1,5 @@
 📊 Data Visualization using Python
-🔵 Scatter Plot & 🟠 Pie Chart Analysis
+ Scatter Plot &  Pie Chart Analysis
 📌 Project Summary
 
 Data visualization is a powerful technique to convert raw numerical data into meaningful graphical insights.
@@ -12,8 +12,7 @@ This project explores two important visualization techniques:
 
 The focus is not just plotting graphs, but understanding why and when to use them in real-world data scenarios.
 
-🔵 1️⃣ Scatter Plot – Relationship Analysis
-📖 Concept
+ 1️⃣ Scatter Plot – Relationship Analysis
 
 A Scatter Plot is used to study the relationship between two quantitative variables.
 
@@ -43,7 +42,7 @@ Experience vs salary trend
 
 Product rating vs sales
 
-🧠 Interpretation Insight
+--Interpretation Insight
 
 By analyzing point distribution:
 
@@ -55,10 +54,9 @@ Random pattern → No correlation
 
 This makes scatter plots extremely valuable in predictive modeling and business analysis.
 
-🟠 2️⃣ Pie Chart – Proportional Representation
-📖 Concept
+ 2️⃣ Pie Chart – Proportional Representatio
 
-A Pie Chart visualizes categorical data as portions of a whole.
+-A Pie Chart visualizes categorical data as portions of a whole.
 
 Each slice represents a percentage share of the total dataset.
 
@@ -84,7 +82,7 @@ Resource allocation overview
 
 Survey result breakdown
 
-🧠 Interpretation Insight
+-- Interpretation Insight
 
 Pie charts are most effective when:
 
@@ -110,13 +108,13 @@ Jupyter Notebook / VS Code
 
 📈 Skills Strengthened
 
-Data relationship analysis
+-Data relationship analysis
 
-Percentage distribution visualization
+-Percentage distribution visualization
 
-Graph labeling & formatting
+-Graph labeling & formatting
 
-Data interpretation techniques
+-Data interpretation techniques
 
 Analytical thinking through visualization
 
@@ -124,10 +122,10 @@ Analytical thinking through visualization
 
 This project enhanced my ability to:
 
-Choose the right visualization method
+-Choose the right visualization method
 
-Interpret data visually before statistical modeling
+-Interpret data visually before statistical modeling
 
-Present data insights clearly and professionally
+-Present data insights clearly and professionally
 
-Visualization is not just about graphs — it is about storytelling with data.
+-Visualization is not just about graphs — it is about storytelling with data.
