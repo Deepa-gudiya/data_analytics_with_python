@@ -1,7 +1,6 @@
 🔹 Project 1 – Data Cleaning & Exploration (Gapminder Dataset) 
 Step 1: Load Dataset
 
-project1
  ├── fundamentals_central_tendency.ipynb
  
  └── IBM-313 Marks.xlsx
