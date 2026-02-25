@@ -1,15 +1,10 @@
-
-🔹 Project 2 – Data Cleaning & Exploration (Gapminder Dataset)
-=======
 🔹 Project 1 – Data Cleaning & Exploration (Gapminder Dataset) 
->>>>>>> 3f9d57cd952e08e669392d6949e92e335934593a
 Step 1: Load Dataset
-=======
+
 project1
  ├── fundamentals_central_tendency.ipynb
  
  └── IBM-313 Marks.xlsx
->>>>>>> b8651e66b521c9dcf47cc3d2592d74f999f84854
 
 Loaded dataset using pd.read_csv()
 
@@ -37,10 +32,6 @@ Calculated average life expectancy per year
 
 Compared GDP per capita trends
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Performed basic aggregation functions
-=======
 Checked dataset structure using info()
 
 Verified number of rows & columns using shape
@@ -80,7 +71,6 @@ Identified overall class performance trend
 Checked whether marks are uniformly distributed
 
 Observed variability in scores
->>>>>>> b8651e66b521c9dcf47cc3d2592d74f999f84854
-=======
+
 Performed basic aggregation functions
->>>>>>> 3f9d57cd952e08e669392d6949e92e335934593a
+
