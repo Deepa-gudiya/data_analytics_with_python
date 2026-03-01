@@ -6,6 +6,7 @@ This project demonstrates the implementation and customization of a Box & Whiske
 
 A Box Plot is a powerful statistical visualization used to understand:
 
+
 Minimum & Maximum values
 
 First Quartile (Q1)
@@ -22,6 +23,7 @@ Overall data spread
 
 It is widely used in Exploratory Data Analysis (EDA) to understand distribution patterns and detect anomalies.
 
+
 🎯 Objectives
 
 Understand quartile-based distribution
@@ -34,39 +36,41 @@ Customize visualization using advanced parameters
 
 Improve statistical visualization skills
 
+
 🛠 Parameters Explored
 
 The following parameters were explored and analyzed in this notebook:
 
-x – Input dataset(s)
+1.x – Input dataset(s)
 
-notch – Adds notch around median
+2.notch – Adds notch around median
 
-vert – Controls orientation
+3.vert – Controls orientation
 
-patch_artist – Enables box color filling
+4.patch_artist – Enables box color filling
 
-widths – Adjusts box width
+5.widths – Adjusts box width
 
-labels – Adds category labels
+6.labels – Adds category labels
 
-showmeans – Displays mean value
+7.showmeans – Displays mean value
 
-meanline – Shows mean as line
+8.meanline – Shows mean as line
 
-showfliers – Controls outlier visibility
+9.showfliers – Controls outlier visibility
 
-medianprops – Customizes median appearance
+10.medianprops – Customizes median appearance
 
-boxprops – Customizes box border
+11.boxprops – Customizes box border
 
-whiskerprops – Customizes whiskers
+12.whiskerprops – Customizes whiskers
 
-capprops – Customizes whisker caps
+13.capprops – Customizes whisker caps
 
-flierprops – Customizes outliers
+14.flierprops – Customizes outliers
 
-manage_ticks – Controls axis tick handling
+15.manage_ticks – Controls axis tick handling
+
 
 💼 Real-World Applications
 
@@ -81,6 +85,7 @@ Box & Whisker Plots are widely used in:
 💰 Financial risk analysis
 
 🏭 Quality control monitoring
+
 
 🚀 Why This Project Matters
 
